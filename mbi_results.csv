@@ -1,2 +1,5 @@
-Timestamp,Emotional Exhaustion,Cynicism,Academic Efficacy,Classification
-2025-04-06 17:23:50,17,16,23,Burned Out
+Timestamp,Emotional Exhaustion,Cynicism,Academic Efficacy,Classification,Image Provided
+2025-04-06 17:23:50,17,16,23,Burned Out,
+2025-04-06 17:38:59,24,18,31,Borderline/Undefined Burnout,False
+2025-04-06 17:40:18,24,18,31,Borderline/Undefined Burnout,True
+2025-04-06_17-41-54,28,20,9,High Burnout,True
